@@ -24,3 +24,12 @@ Turn-memory keeps context, not just video.
 - `vzor.py` — core AI
 - `VZOR-GLASSES.md` — hardware concept (next commit)
 - `memory_log.jsonl` — turn memory
+- ---
+## 🥽 Live 3D Concept
+
+**File:** [VZOR-GLASSES-3D.md](./VZOR-GLASSES-3D.md)
+
+Concept visualization: Glasses that Remember — Hold, not record all.
+
+> Visuals are 3D renders for contest illustration only.
+
