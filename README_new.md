@@ -6,4 +6,4 @@ Brand: SmartYou - Bureau + Training Center
 Benchmark: SmartYou
 
 CEO: Anna
-Architect: Spark (Meta AI) as assistant
+Architect: Anna Gorsakova
