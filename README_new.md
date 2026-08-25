@@ -5,5 +5,5 @@ Created: August 2026, Riga
 Brand: SmartYou - Bureau + Training Center
 Benchmark: SmartYou
 
-CEO: Anna
-Architect: Anna Gorsakova
+CEO: Anna Goršakova
+Architect: Anna Goršakova
