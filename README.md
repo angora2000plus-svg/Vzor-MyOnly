@@ -1,5 +1,5 @@
 
-# VZOR / Myonly — Glasses that Remember
+# VZOR2026PREMIUM — Glasses that Remember
 
 **Status: Concept project for Builder Fest — Participate & win up to $100K**
 > This is an idea contest submission. Not a product for sale.
